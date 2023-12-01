@@ -6,7 +6,6 @@ INDEX VERSION 1.134+C:\Users\dell\Desktop\qwerty\vinay\.metadata\.plugins\org.ec
 361633515.index
 255127107.index
 145964475.index
-1794832342.index
 3967406683.index
 975453425.index
 3443909685.index
