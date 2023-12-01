@@ -1,0 +1,25 @@
+package com.eva.vtiger.testscripts;
+
+import com.eva.vtiger.appreusablecode.common.CommonReusableCodes;
+import com.eva.vtiger.appreusablecode.marketing.accounts.MarketingAccountDetailsPage;
+import com.eva.vtiger.appreusablecode.marketing.accounts.MarketingAccountsCreateAccountPage;
+import com.eva.vtiger.appreusablecode.marketing.accounts.MarketingAccountsLandingPage;
+
+public class InventoryInvoiceTestScripts {
+
+	
+	public void vt0027VerifyAccountAndContactOnInvoicePage(){
+		CommonReusableCodes crc=new CommonReusableCodes();
+		crc.login();
+		crc.gotoMarketingAccounts();
+		MarketingAccountsLandingPage accountPage=new MarketingAccountsLandingPage();
+		accountPage.clickCreateAccountButton();
+		MarketingAccountsCreateAccountPage createpage=new MarketingAccountsCreateAccountPage();
+		createpage.enterAndSaveCreateAccountForm();
+		MarketingAccountDetailsPage marketingCreatepage=new MarketingAccountDetailsPage();
+		marketingCreatepage.gotoMarketingContacts();
+		accountPage.clickCreateCountactsButton();
+	}
+	
+	
+}

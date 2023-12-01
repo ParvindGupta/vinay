@@ -1,0 +1,18 @@
+package Parameter_Arguments;
+
+public class ReturnType {
+
+	public static void main(String[] args) {
+		int c=20;
+		int d = m1(50);
+		c=c+d;
+		System.out.print(c);
+	}
+	public static int m1(int a) {
+		
+
+
+	return a;
+}
+	}
+

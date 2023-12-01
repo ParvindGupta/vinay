@@ -1,0 +1,12 @@
+package NormalClass;
+
+public class Parvind {
+
+	public static void main(String[] args) {
+	System.out.println(" Please enter your first number");
+	int a= 10;
+	System.out.println(a);
+
+	}
+
+}

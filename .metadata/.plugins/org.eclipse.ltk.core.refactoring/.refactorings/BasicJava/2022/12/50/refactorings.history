@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;PracticeSet.parameterAndReturn&apos; to &apos;Parameter&apos;&#x0D;&#x0A;- Original project: &apos;BasicJava&apos;&#x0D;&#x0A;- Original element: &apos;PracticeSet.parameterAndReturn&apos;&#x0D;&#x0A;- Renamed element: &apos;PracticeSet.Parameter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;parameterAndReturn&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;PracticeSet{parameterAndReturn.java[parameterAndReturn" matchStrategy="1" name="Parameter" qualified="false" references="true" similarDeclarations="false" stamp="1670473400161" textual="false" version="1.0"/>
+</session>

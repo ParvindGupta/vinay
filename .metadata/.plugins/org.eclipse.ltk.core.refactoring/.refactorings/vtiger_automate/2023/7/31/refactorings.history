@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;linkTet&apos; in &apos;com.parvindGupta.vtigerautomation.testscripts.WebUtility.mySelectByText(...)&apos; to &apos;linkTex&apos;&#x0D;&#x0A;- Original project: &apos;vtiger_automate&apos;&#x0D;&#x0A;- Original element: &apos;com.parvindGupta.vtigerautomation.testscripts.WebUtility.mySelectByText(String, String, String).linkTet&apos;&#x0D;&#x0A;- Renamed element: &apos;linkTet&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;linkTet&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.parvindGupta.vtigerautomation.testscripts{WebUtility.java[WebUtility~mySelectByText~QString;~QString;~QString;@linkTet!3688!3701!3695!3701!QString;!0!true" name="linkTex" references="true" stamp="1690699092741" version="1.0"/>
+</session>

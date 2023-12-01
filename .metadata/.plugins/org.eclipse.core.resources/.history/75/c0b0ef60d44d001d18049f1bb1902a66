@@ -1,0 +1,11 @@
+package abc;
+
+public class abc {
+	public static void a1() {
+		System.out.println("a1");
+	}
+
+	public static void a2() {
+		System.out.println("a2");
+	}
+}
